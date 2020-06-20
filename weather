@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "Checking weather..."
+curl http://wttr.in

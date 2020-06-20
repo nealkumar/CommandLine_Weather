@@ -1,0 +1,3 @@
+echo "Installing weather"
+sudo cp ./weather /usr/bin
+echo "weather successfully installed!"

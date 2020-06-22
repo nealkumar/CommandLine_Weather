@@ -1,2 +1,2 @@
-sudo rm /usr/bin/weather
+sudo rm -R /usr/bin/weather
 echo "Program 'weather' deleted."
